@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"src.primerdam.xaviersastre.programacio.primeravaluacio.exemplesclasseobjectes","l":"Persona"}]
