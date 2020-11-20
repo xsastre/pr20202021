@@ -293,7 +293,7 @@ public class Club {
         // Create an sign up Jugadors
         Jugador jugador = new Jugador(123456, "Joan Romeu", "12/01/2000", "01/03/2018", 4, 100000, false);
         this.contractarJugador(jugador);
-        jugador = new Jugador(128951, "Ricard Prat", "14/02/20011", "16/11/2019", 4, 130000, false);
+        jugador = new Jugador(128951, "Ricard Prat", "14/02/2001", "16/11/2019", 4, 130000, false);
         this.contractarJugador(jugador);
         jugador = new Jugador(666666, "Pol Santos", "02/06/1997", "12/11/2019", 3, 135000, true);
         this.contractarJugador(jugador);
