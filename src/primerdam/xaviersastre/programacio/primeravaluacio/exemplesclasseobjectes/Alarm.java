@@ -1,5 +1,5 @@
 
-package alarm;
+package primerdam.xaviersastre.programacio.primeravaluacio.exemplesclasseobjectes;
 
 import org.joda.time.DateTime;
 import org.joda.time.Period;
