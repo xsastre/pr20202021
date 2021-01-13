@@ -15,6 +15,7 @@ public class ObtenintDadesdelteclat03 {
         // Tornam a llegir del teclat, però ara volem llegir un int. Aleshores, primer hem de preparar
         // un variable per a poder guardar el valor obtingut.
         int intllegit;
+        int Intllegit;
         System.out.print("Per favor introduir una nombre sencer:");
         intllegit=lecturateclat.nextInt();
         System.out.println("Ara hem llegit: "+intllegit);
